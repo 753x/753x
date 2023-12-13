@@ -19,5 +19,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
  <br/>
 <br/>
-![753x's GitHub stats](https://github-readme-stats.vercel.app/api?username=753x&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=753x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+[![753x's GitHub stats](https://github-readme-stats.vercel.app/api?
+username=753x&include_all_commits=true&show_icons=true&theme=cobalt)]
+(https://github.com/753x/github-readme-stats)
